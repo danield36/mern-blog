@@ -2,23 +2,23 @@
 
 
 
-![MERN_Stack_BlogProject](https://socialify.git.ci/walidbosso/MERN_Stack_BlogProject/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
+![mern-blog](https://socialify.git.ci/mern-blog/mern-blog/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
 
 
 <p align="center">
-<a href="https://github.com/walidbosso/MERN_Stack_BlogProject">
+<a href="https://github.com/mern-blog/mern-blog">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> </a>
 </p>
 <div align="center">
   
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/walidbosso/MERN_Stack_BlogProject)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mern-blog&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/mern-blog/mern-blog)
 
   <p align="center">
-<a href="https://github.com/walidbosso/MERN_Stack_BlogProject">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FMERN_Stack_BlogProject&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
+<a href="https://github.com/mern-blog/mern-blog">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmern-blog%2Fmern-blog&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
 </p>
 
-<a href="https://github.com/walidbosso/MERN_Stack_BlogProject">
+<a href="https://github.com/mern-blog/mern-blog">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
   <a/>
 </a>
@@ -82,15 +82,11 @@ This project operates under the **MIT License**. Refer to the [LICENSE](LICENSE)
 
 Your feedback and contributions are invaluable! Feel free to open issues, submit pull requests, or connect for discussions.
 
-- Contact me in [LinkedIn](https://www.linkedin.com/in/walidbosso) for questions. 
+- Contact me in [LinkedIn](https://www.linkedin.com/in/mern-blog) for questions. 
 
 <br>
 
 <div align="center">
-  
-----------------------
-> >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
-----------------------
 
 <details>
 
@@ -101,7 +97,7 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 
 <div align="center">
 
-[![Stargazers repo roster for @walidbosso/MERN_Stack_BlogProject](http://reporoster.com/stars/dark/walidbosso/MERN_Stack_BlogProject)](https://github.com/walidbosso/MERN_Stack_BlogProject/stargazers)
+[![Stargazers repo roster for @mern-blog/mern-blog](http://reporoster.com/stars/dark/mern-blog/mern-blog)](https://github.com/mern-blog/mern-blog/stargazers)
 
 
 
@@ -111,14 +107,14 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 
 <div align="center" >
 
-[![Forkers repo roster for @walidbosso/MERN_Stack_BlogProject](http://reporoster.com/forks/dark/walidbosso/MERN_Stack_BlogProject)](https://github.com/walidbosso/MERN_Stack_BlogProject/network/members)
+[![Forkers repo roster for @mern-blog/mern-blog](http://reporoster.com/forks/dark/mern-blog/mern-blog)](https://github.com/mern-blog/mern-blog/network/members)
 
 </div>
 
 ## Contributors
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://contrib.rocks/image?repo=walidbosso/MERN_Stack_BlogProject"/>
+<a href = "https://github.com/mern-blog">
+  <img src = "https://contrib.rocks/image?repo=mern-blog/mern-blog"/>
 </a>
 
 
@@ -128,15 +124,15 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 
 <!--THANKS-->
  <p align="center">
-<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/mern-blog"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=mern-blog&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 </p>
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/MERN_Stack_BlogProject?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/mern-blog/mern-blog?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/walidbosso/MERN_Stack_BlogProject?style=social)
+![GitHub License](https://img.shields.io/github/license/mern-blog/mern-blog?style=social)
 
 
 
@@ -151,14 +147,14 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/mern-blog">
+  <img src = "https://github.com/mern-blog/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+<a href = "https://github.com/mern-blog">
+  <img src = "https://github.com/mern-blog/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/mern-blog">
+  <img src = "https://github.com/mern-blog/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
